@@ -41,6 +41,7 @@ Recomendaciones
 - Incentivar la migración de clientes mensuales a contratos anuales.
 - Implementar modelos de predicción de churn con las variables detectadas como clave.
 - Ofrecer descuentos o beneficios a clientes con alto pago mensual o baja antigüedad.
+
 Autor
 Desarrollado por: Maximiliano Ríos
 Contacto: maxrios@gmail.com
