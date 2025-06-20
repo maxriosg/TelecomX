@@ -43,5 +43,5 @@ pip install -r requirements.txt
 - Ofrecer descuentos o beneficios a clientes con alto pago mensual o baja antigüedad.
 🧠 Autor
 Desarrollado por: Maximiliano Ríos
-Contacto: [tmaxrios@gmail.com]
+Contacto: maxrios@gmail.com
 Institución/Curso: Alura Latam - Proyecto de Data Science – Telecom X LATAM
